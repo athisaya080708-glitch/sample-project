@@ -1,4 +1,4 @@
-# Sample Project
+# Sample Project - demo
 
 ## 📌 Description
 Briefly explain what your project is and what problem it solves.
