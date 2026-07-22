@@ -1,4 +1,4 @@
-# Project Name
+# Sample Project
 
 ## 📌 Description
 Briefly explain what your project is and what problem it solves.
